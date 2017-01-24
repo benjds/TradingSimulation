@@ -1,4 +1,4 @@
-# TradingSimulation
+# Trading Simulation
 
 The aim of this project is to develop a VBA application to rebuild our trade file from the order files of all your fellow broker-dealers. In addition, we will summarize the market activity by drawing some fancy graphs (more on this below).
 
